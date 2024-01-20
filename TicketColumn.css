@@ -1,0 +1,12 @@
+.ticket-column {
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+  margin-right: 10px;
+  white-space: normal;
+  width: 500px;
+}
+
+.ticket-column h2 {
+  margin-bottom: 10px;
+}

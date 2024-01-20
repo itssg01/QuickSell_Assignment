@@ -1,0 +1,27 @@
+* {
+    font-family: "Roboto Mono", monospace;
+}
+
+.navbar {
+    display: flex;
+    gap: 10px;
+    margin: 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    width: 100%;
+  }
+  
+  .navbar button {
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #ccc;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .navbar button:hover {
+    background-color: #eee;
+  }
+  
